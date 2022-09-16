@@ -1,5 +1,5 @@
 README.md
-##########
+
 1. Lade "index.html" herunter
 
 2. Öffne "index.html" mit NOTEPAD++, du wirst das HTML-Grundgerüst seheh.
